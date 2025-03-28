@@ -1,0 +1,39 @@
+---
+title: "Presentation_Seminar"
+author: "ADA"
+format:
+  revealjs:
+      theme: solarized
+      embed-resources: true
+---
+
+## Quarto
+
+If I want create a new slide I set `- - -` in the markdown...
+
+---
+
+Just like this.
+
+## Below the revealjs you set up the themes:
+
+## Hola
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## Bullets
+
+When you click the **Render** button a document will be generated that includes:
+
+-   Content authored with markdown
+-   Output from executable code
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+`plot(p)`
